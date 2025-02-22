@@ -1,6 +1,6 @@
 # 📌 Python-study
 
-Bem-vindo ao repositório! 🚀
+Bem-vindo ao Python-study! 🚀
 
 ## 📖 Sobre
 
